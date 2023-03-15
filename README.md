@@ -6,7 +6,7 @@ This code implements two Boids classes where Boids have position, velocity and m
 
 <img width="1014" alt="1" src="https://user-images.githubusercontent.com/115119995/225199057-147392f6-f671-42f2-82d6-ad3013762c75.png">
 
-——————————————————————————————————————————————————————————————————
+——————————————————————————————————————————————————————————————
 
 # Openframework 2
 ### Video link: https://youtu.be/0-5rDZttEf0
