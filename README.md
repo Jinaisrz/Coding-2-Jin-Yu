@@ -20,6 +20,7 @@ This code is a video processing application based on the openFrameworks library 
 ——————————————————————————————————————————————————————————
 
 # Python 1: Decoding challenge
+### Video link: https://youtu.be/sfg9Q8UYJT8
 
 I have created code for a number guessing game which includes two different functions guessNumber and asciiGuess. guessNumber generates a random integer between 1 and maxValue and then asks the user to guess the number within maxTime attempts. Each time the user enters an integer, they are prompted with an error if it is not a number, if they guess correctly the game is over, if they guess incorrectly they are prompted with a number that is too big or too small. If the user has used up all the times and has not guessed, the game is over.
 
