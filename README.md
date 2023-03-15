@@ -19,7 +19,7 @@ This code is a video processing application based on the openFrameworks library 
 
 ————————————————————————————————————————————————————————————————————————
 
-# Python 1
+# Python 1: Average picture
 
 The function of this code is to read 50 images from a folder and calculate their average pixel value and finally display the average image. It uses the os module in Python to manipulate files and directories, and the matplotlib and numpy modules to manipulate image and array data. It uses list parsing to get the full paths of all image files with a .jpg suffix and reads them as numpy arrays for statistical processing. Finally, it uses the imshow function to display the average image.
 
@@ -27,4 +27,11 @@ The function of this code is to read 50 images from a folder and calculate their
 
 ————————————————————————————————————————————————————————————————————————
 
-# Python 2
+# Python 2: Decoding challenge
+
+I have created code for a number guessing game which includes two different functions guessNumber and asciiGuess. guessNumber generates a random integer between 1 and maxValue and then asks the user to guess the number within maxTime attempts. Each time the user enters an integer, they are prompted with an error if it is not a number, if they guess correctly the game is over, if they guess incorrectly they are prompted with a number that is too big or too small. If the user has used up all the times and has not guessed, the game is over.
+
+The asciiGuess function is similar to the guessNumber function in that it asks the user to guess a number within maxTime attempts, but the number is the ASCII code for the character '1'. Each time the user enters an integer, an error is indicated if it is not a number, if it is correct it ends the game, if it is wrong it indicates whether the number is too big or too small. If the user has used up all the times and has not guessed, the game will be prompted to end and the correct answer will be displayed.
+
+<img width="706" alt="截屏2023-03-15 04 41 05" src="https://user-images.githubusercontent.com/115119995/225208533-89c37a5a-8d65-4ed1-aff4-1f20c0126bd1.png">
+
