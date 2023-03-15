@@ -17,7 +17,8 @@ This code is a video processing application based on the openFrameworks library 
 <img width="640" alt="4" src="https://user-images.githubusercontent.com/115119995/225196525-bb885c24-4064-44eb-abba-3c08dbf36c29.png">
 <img width="639" alt="5" src="https://user-images.githubusercontent.com/115119995/225196532-c6551f19-9e03-45d4-a8d8-ac9c9bbdbd09.png">
 
-————————————————————————————————————————————————————————————————————————
+——————————————————————————————————————————————————————————
+
 # Python 1: Decoding challenge
 
 I have created code for a number guessing game which includes two different functions guessNumber and asciiGuess. guessNumber generates a random integer between 1 and maxValue and then asks the user to guess the number within maxTime attempts. Each time the user enters an integer, they are prompted with an error if it is not a number, if they guess correctly the game is over, if they guess incorrectly they are prompted with a number that is too big or too small. If the user has used up all the times and has not guessed, the game is over.
@@ -26,7 +27,7 @@ The asciiGuess function is similar to the guessNumber function in that it asks t
 
 <img width="706" alt="截屏2023-03-15 04 41 05" src="https://user-images.githubusercontent.com/115119995/225208533-89c37a5a-8d65-4ed1-aff4-1f20c0126bd1.png">
 
-————————————————————————————————————————————————————————————————————————
+——————————————————————————————————————————————————————————
 
 # Python 2: Average picture
 
