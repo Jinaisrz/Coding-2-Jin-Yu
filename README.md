@@ -17,10 +17,14 @@ This code is a video processing application based on the openFrameworks library 
 <img width="640" alt="4" src="https://user-images.githubusercontent.com/115119995/225196525-bb885c24-4064-44eb-abba-3c08dbf36c29.png">
 <img width="639" alt="5" src="https://user-images.githubusercontent.com/115119995/225196532-c6551f19-9e03-45d4-a8d8-ac9c9bbdbd09.png">
 
+————————————————————————————————————————————————————————————————————————
+
 # Python 1
 
 The function of this code is to read 50 images from a folder and calculate their average pixel value and finally display the average image. It uses the os module in Python to manipulate files and directories, and the matplotlib and numpy modules to manipulate image and array data. It uses list parsing to get the full paths of all image files with a .jpg suffix and reads them as numpy arrays for statistical processing. Finally, it uses the imshow function to display the average image.
 
 ![未标题-1](https://user-images.githubusercontent.com/115119995/225207973-5e03546d-9c1d-424d-8c1a-a1dee7020e77.png)
 
+————————————————————————————————————————————————————————————————————————
 
+# Python 2
